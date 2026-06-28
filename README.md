@@ -13,7 +13,7 @@ The two signals are blended into a single **Composite Stress Index** scored 0–
 
 ## Output
 
-![Market Stress Dashboard](market_stress_signal.png)
+![Market Stress Dashboard](market_stress_signal_output.png)
 
 ---
 
